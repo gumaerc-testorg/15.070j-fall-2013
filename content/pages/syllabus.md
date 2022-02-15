@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c9dedcde-faa8-cc41-b1e6-4aa08ce468c9
 ---
@@ -22,7 +24,7 @@ The class covers the analysis and modeling of stochastic processes. Topics inclu
 Lecture Topics Overview
 -----------------------
 
-1.  Review of basic probabilistic concepts; Metric spaces and topology; Topology in ℝ_d_ and _C_(\[0; T\]); Probability on metric spaces.
+1.  Review of basic probabilistic concepts; Metric spaces and topology; Topology in ℝ_{{< sup "d" >}}_ and _C_(\[0; T\]); Probability on metric spaces.
 2.  Large deviations theory.
     1.  Introduction to large deviations; Calculus of large deviations.
     2.  Cramer's theorem, Gartner-Ellis theorem, Sanov's theorem.
@@ -122,7 +124,7 @@ HW 1 due
 {{< tdopen >}}
 
 
-Extension of LD to ℝ_d_ and dependent process
+Extension of LD to ℝ_{{< sup "d" >}}_ and dependent process
 
 Gärtner-Ellis theorem
 

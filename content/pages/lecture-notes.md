@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d222d904-8064-4553-51db-11843423b8c9
 ---
@@ -81,7 +84,7 @@ Applications of the large deviations technique
 {{< tdopen >}}
 
 
-Extension of LD to ℝ_d_ and dependent process
+Extension of LD to ℝ_{{< sup "d" >}}_ and dependent process
 
 Gärtner-Ellis theorem
 

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 906e8abe-7492-a297-1c43-b270e8cc7d9e
 ---
@@ -40,20 +42,6 @@ Any one of the following courses:
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo of a high-ceiling classroom with long row tables for students and whiteboards on both the front and side walls.]({{< resource_file e9a4689c-63df-1f30-88be-ac5430cd5bfe >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course is taught in a 36-seat flat classroom with slide and overhead projection, a document camera, and whiteboards for diagrams and equations.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

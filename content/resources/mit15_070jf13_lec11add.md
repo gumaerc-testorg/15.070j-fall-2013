@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource file contains the information regarding lecture 11-additional
   materials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-070j-advanced-stochastic-processes-fall-2013/66b6c8fdb52304e3777ce8286beaaf7d_MIT15_070JF13_Lec11Add.pdf
+file: /media/courses/15-070j-advanced-stochastic-processes-fall-2013/66b6c8fdb52304e3777ce8286beaaf7d_MIT15_070JF13_Lec11Add.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Additional materials: Martingales convergence theorem'
 uid: 66b6c8fd-b523-04e3-777c-e8286beaaf7d

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource file contains the information regarding homework 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-070j-advanced-stochastic-processes-fall-2013/0b66685c1af0f018d50e5f93438908e0_MIT15_070JF13_Homework3.pdf
+file: /media/courses/15-070j-advanced-stochastic-processes-fall-2013/0b66685c1af0f018d50e5f93438908e0_MIT15_070JF13_Homework3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 3: Advanced stochastic processes, Fall 2013'
 uid: 0b66685c-1af0-f018-d50e-5f93438908e0
