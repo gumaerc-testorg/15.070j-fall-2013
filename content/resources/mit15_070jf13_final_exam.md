@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: cdfbbd4e-b720-7b47-1e9c-f0850a0c36c8
 resourcetype: Document
 title: 'Final: Advanced stochastic processes, Fall 2013'
 uid: 80060735-cde6-0afe-e648-b0cd002117b9

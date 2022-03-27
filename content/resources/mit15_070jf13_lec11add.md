@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d222d904-8064-4553-51db-11843423b8c9
 resourcetype: Document
 title: 'Additional materials: Martingales convergence theorem'
 uid: 66b6c8fd-b523-04e3-777c-e8286beaaf7d

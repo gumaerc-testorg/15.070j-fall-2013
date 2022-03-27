@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a1c403a-b6f8-7383-39da-19214e812658
 resourcetype: Document
 title: 'Homework 1: Advanced stochastic processes, Fall 2013'
 uid: c5bba18d-a8d0-798f-364f-29362d6536b7

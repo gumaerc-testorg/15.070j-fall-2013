@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: cdfbbd4e-b720-7b47-1e9c-f0850a0c36c8
 resourcetype: Document
 title: 'Midterm: Advanced stochastic processes, Fall 2013'
 uid: 66fc786e-5d90-c1fd-1dbd-afbdb6650efb
