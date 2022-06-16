@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains the information regarding homework 3.
-file: /media/courses/15-070j-advanced-stochastic-processes-fall-2013/0b66685c1af0f018d50e5f93438908e0_MIT15_070JF13_Homework3.pdf
+file: /courses/15-070j-advanced-stochastic-processes-fall-2013/0b66685c1af0f018d50e5f93438908e0_MIT15_070JF13_Homework3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Homework 3: Advanced stochastic processes, Fall 2013'
 uid: 0b66685c-1af0-f018-d50e-5f93438908e0
 ---
+This resource file contains the information regarding homework 3.
+

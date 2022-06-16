@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the midterm exam and solutions, and the final exam
+  for the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -22,16 +24,16 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Midterm (PDF)]({{< baseurl >}}/resources/mit15_070jf13_mid_term_v2)
+{{% resource_link 66fc786e-5d90-c1fd-1dbd-afbdb6650efb "Midterm (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Midterm solutions (PDF)]({{< baseurl >}}/resources/mit15_070jf13_mid_term_sol)
+{{% resource_link 2053a5c4-fbda-0185-234e-51ebc007ee05 "Midterm solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final exam (PDF)]({{< baseurl >}}/resources/mit15_070jf13_final_exam)
+{{% resource_link 80060735-cde6-0afe-e648-b0cd002117b9 "Final exam (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No solutions

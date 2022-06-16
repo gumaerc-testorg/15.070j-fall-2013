@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-070j-advanced-stochastic-processes-fall-2013/e9a4689c63df1f3088beac5430cd5bfe_15-070J_classroom-1.jpg
+file: /courses/15-070j-advanced-stochastic-processes-fall-2013/e9a4689c63df1f3088beac5430cd5bfe_15-070J_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
