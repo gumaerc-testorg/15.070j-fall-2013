@@ -5,6 +5,7 @@ file: /courses/15-070j-advanced-stochastic-processes-fall-2013/0b66685c1af0f018d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Homework 3: Advanced stochastic processes, Fall 2013'
 uid: 0b66685c-1af0-f018-d50e-5f93438908e0
 ---
 This resource file contains the information regarding homework 3.
-

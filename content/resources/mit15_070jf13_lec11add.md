@@ -6,6 +6,7 @@ file: /courses/15-070j-advanced-stochastic-processes-fall-2013/66b6c8fdb52304e37
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Additional materials: Martingales convergence theorem'
 uid: 66b6c8fd-b523-04e3-777c-e8286beaaf7d
 ---
 This resource file contains the information regarding lecture 11-additional materials.
-

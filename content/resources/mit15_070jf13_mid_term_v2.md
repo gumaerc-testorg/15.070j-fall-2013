@@ -5,6 +5,7 @@ file: /courses/15-070j-advanced-stochastic-processes-fall-2013/66fc786e5d90c1fd1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Midterm: Advanced stochastic processes, Fall 2013'
 uid: 66fc786e-5d90-c1fd-1dbd-afbdb6650efb
 ---
 This resource file contains the information regarding midterm exam.
-
