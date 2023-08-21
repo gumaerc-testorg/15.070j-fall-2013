@@ -36,8 +36,10 @@
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "4eb8620e-a571-4d80-9dca-6c580656b1df",
+  "site_uid": "91bb342f-fba1-4b49-83d0-f095e5d006cb",
+  "short_id": "15.070j-fall-2013",
   "title": "Course Metadata"
 }
