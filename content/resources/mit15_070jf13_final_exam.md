@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains the information regarding final exam.
 file: /courses/15-070j-advanced-stochastic-processes-fall-2013/80060735cde60afee648b0cd002117b9_MIT15_070JF13_Final_Exam.pdf
+file_size: 231049
 file_type: application/pdf
 learning_resource_types:
 - Exams
