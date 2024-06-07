@@ -17,14 +17,14 @@ You will also find exercises in the course notes. The simpler problems are for y
 
 ## References
 
-- \[Billingsley\] = Billingsley, Patrick. *Weak Convergence of Measures: Applications in Probability*. Society for Industrial and Applied Mathematics, 1987. ISBN: 9780898711769. \[Preview with {{% resource_link "0bed4daa-240b-4ac2-8fae-a421b1e792ed" "Google Books" %}}\]
-- \[Chen and Yao\] = Chen, H., and D. Yao. *Fundamentals of Queueing Networks: Performance, Asymptotics and Optimization*. Springer-Verlag, 2001. ISBN: 9780387951669. \[Preview with {{% resource_link "8e6db497-63e9-46b9-9f3a-de549adf91ba" "Google Books" %}}\]
-- \[Dembo and Zeitouni\] = Dembo, Amir, and Ofer, Zeitouni. *Large Deviations Techniques and Applications*. 2nd ed. Springer, 2009. ISBN: 9783642033100. \[Preview with {{% resource_link "6dce57ec-3b02-4b9b-8100-9b764da6423e" "Google Books" %}}\]
-- \[Durrett\] = Durrett, Rick. *Probability: Theory and Examples*. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with {{% resource_link "21791580-6309-4c56-b235-25adac39a1f8" "Google Books" %}}\]
-- \[Karatzas and Shreve\] = Karatzas, Ioannis and Steven, Shreve. *Brownian Motion and Stochastic Calculus*. 2nd ed. Springer-Verlag, 1991. ISBN: 9780387976556. \[Preview with {{% resource_link "74adeec3-e0cc-4e9c-8a90-12b364cb5fe4" "Google Books" %}}\]
-- \[Øksendal\] = Øksendal, B. *Stochastic Differential Equations: An Introduction with Applications*. Springer, 2010. ISBN: 9783540047582. \[Preview with {{% resource_link "942e7019-ec5f-4f01-bb4d-5ed61c1fc8f6" "Google books" %}}\]
-- \[Resnick\] = Resnick, Sydney. *Adventures in Stochastic Processes*. 1st ed. Birkhauser Verlag, 1992. ISBN: 9780817635916. \[Preview with {{% resource_link "759acb3a-bb03-4029-96c4-f3a9cdfcc692" "Google Books" %}}\]
-- \[Shwartz and Weiss\] = Shwartz, Adam, and Alan Weiss. *Large Deviations for Performance Analysis: Queues, Communication and Computing*. Chapman and Hall/CRC, 1995. ISBN: 9780412063114. \[Preview with {{% resource_link "621c015a-3791-49e6-8191-107394379e68" "Google Books" %}}\]
+- \[Billingsley\] = Billingsley, Patrick. *Weak Convergence of Measures: Applications in Probability*. Society for Industrial and Applied Mathematics, 1987. ISBN: 9780898711769. \[Preview with [Google Books](http://books.google.com/books?id=bDiSJapvdbMC&printsec=frontcover)\]
+- \[Chen and Yao\] = Chen, H., and D. Yao. *Fundamentals of Queueing Networks: Performance, Asymptotics and Optimization*. Springer-Verlag, 2001. ISBN: 9780387951669. \[Preview with [Google Books](http://books.google.com/books?id=k0M_m8N_iBcC&printsec=frontcover)\]
+- \[Dembo and Zeitouni\] = Dembo, Amir, and Ofer, Zeitouni. *Large Deviations Techniques and Applications*. 2nd ed. Springer, 2009. ISBN: 9783642033100. \[Preview with [Google Books](http://books.google.com/books?id=iT9JRlGPx5gC&printsec=frontcover)\]
+- \[Durrett\] = Durrett, Rick. *Probability: Theory and Examples*. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with [Google Books](http://books.google.com/books?id=evbGTPhuvSoC&printsec=frontcover)\]
+- \[Karatzas and Shreve\] = Karatzas, Ioannis and Steven, Shreve. *Brownian Motion and Stochastic Calculus*. 2nd ed. Springer-Verlag, 1991. ISBN: 9780387976556. \[Preview with [Google Books](http://books.google.com/books?id=ATNy_Zg3PSsC&printsec=frontcover)\]
+- \[Øksendal\] = Øksendal, B. *Stochastic Differential Equations: An Introduction with Applications*. Springer, 2010. ISBN: 9783540047582. \[Preview with [Google books](http://books.google.com/books?id=EQZEAAAAQBAJ&printsec=frontcover)\]
+- \[Resnick\] = Resnick, Sydney. *Adventures in Stochastic Processes*. 1st ed. Birkhauser Verlag, 1992. ISBN: 9780817635916. \[Preview with [Google Books](http://books.google.com/books?id=YGjTl8iX-HsC&printsec=frontcover)\]
+- \[Shwartz and Weiss\] = Shwartz, Adam, and Alan Weiss. *Large Deviations for Performance Analysis: Queues, Communication and Computing*. Chapman and Hall/CRC, 1995. ISBN: 9780412063114. \[Preview with [Google Books](http://books.google.com/books?id=lNxkp_roxl4C&printsec=frontcover)\]
 
 ## Readings by Class Session
 
@@ -199,7 +199,7 @@ Integration with respect to martingales
 {{< tdclose >}}{{< tdopen >}}
 Applications of Ito calculus to financial economics
 {{< tdclose >}}{{< tdopen >}}
-Duffie, Darrell. Dynamic Asset Pricing Theory. Princeton University Press, 2001. ISBN: 9780691090221. \[Preview with {{% resource_link "adb91664-3727-4838-8e70-a2f4bc59d5fe" "Google Books" %}}\]
+Duffie, Darrell. Dynamic Asset Pricing Theory. Princeton University Press, 2001. ISBN: 9780691090221. \[Preview with [Google Books](http://books.google.com/books?id=f2Wv-LDpsoUC&printsec=frontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -228,7 +228,7 @@ Reflected Brownian motion
 
 ## Supplemental references
 
-- Dinwoodie, I. H. "{{% resource_link "50172f46-9816-44dc-8a39-4fad41ac9659" "A Note on the Upper Bound for I.I.D Large Deviations" %}}." *The Annals of Probability 19*, no. 4 (1991): 1732–6.
-- Lancaster, Peter, and Miron Tismenetsky. *The Theory of Matrices: With Applications*. Vol. 2. Academic Press, 1985. ISBN: 9780124355606. \[Preview with {{% resource_link "afa38e81-284d-4a29-af9f-c13a221294bd" "Google Books" %}}\]
+- Dinwoodie, I. H. "[A Note on the Upper Bound for I.I.D Large Deviations](http://www.jstor.org/stable/2244535)." *The Annals of Probability 19*, no. 4 (1991): 1732–6.
+- Lancaster, Peter, and Miron Tismenetsky. *The Theory of Matrices: With Applications*. Vol. 2. Academic Press, 1985. ISBN: 9780124355606. \[Preview with [Google Books](http://books.google.com/books?id=2c011Aptsa8C&printsec=frontcover)\]
 - Seneta, E. *Non-Negative Matrices and Markov Chains*. 2nd ed. Springer-Verlag, 2006. ISBN: 9780387905983.
-- Slaby, M. "{{% resource_link "8e22fd9b-ceaa-46b2-acf8-12e8bfdb418f" "On the Upper Bound for Large Deviations of Sums of I.I.D Random Vectors" %}}." *The Annals of Probability* 16, no. 3 (1988): 925-1388.
+- Slaby, M. "[On the Upper Bound for Large Deviations of Sums of I.I.D Random Vectors](http://www.jstor.org/stable/2244104)." *The Annals of Probability* 16, no. 3 (1988): 925-1388.
