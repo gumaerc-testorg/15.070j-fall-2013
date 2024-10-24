@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains the information regarding homework 1 solutions.
 draft: false
-file: /courses/15-070j-advanced-stochastic-processes-fall-2013/edf97cc83dcc981030d12ed3e39788f7_MIT15_070JF13_Pset1_Sol.pdf
+file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/edf97cc83dcc981030d12ed3e39788f7_MIT15_070JF13_Pset1_Sol.pdf
 file_size: 157996
 file_type: application/pdf
 image_metadata:
