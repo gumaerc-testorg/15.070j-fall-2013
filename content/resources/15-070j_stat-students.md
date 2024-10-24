@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-070j-advanced-stochastic-processes-fall-2013/f80b84c5fab497f7459f7cdb4306d2a3_15-070J_stat-students.png
+file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/f80b84c5fab497f7459f7cdb4306d2a3_15-070J_stat-students.png
 file_size: 2929
 file_type: image/png
 image_metadata:
