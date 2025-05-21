@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains the information regarding lecture 11-additional
   materials.
-file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/66b6c8fdb52304e3777ce8286beaaf7d_MIT15_070JF13_Lec11Add.pdf
+file: /courses/15-070j-advanced-stochastic-processes-fall-2013/66b6c8fdb52304e3777ce8286beaaf7d_MIT15_070JF13_Lec11Add.pdf
 file_size: 381735
 file_type: application/pdf
 learning_resource_types:

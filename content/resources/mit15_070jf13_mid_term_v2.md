@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains the information regarding midterm exam.
-file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/66fc786e5d90c1fd1dbdafbdb6650efb_MIT15_070JF13_Mid_Term_V2.pdf
+file: /courses/15-070j-advanced-stochastic-processes-fall-2013/66fc786e5d90c1fd1dbdafbdb6650efb_MIT15_070JF13_Mid_Term_V2.pdf
 file_size: 232603
 file_type: application/pdf
 learning_resource_types:
