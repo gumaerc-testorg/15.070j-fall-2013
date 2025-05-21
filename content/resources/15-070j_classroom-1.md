@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/e9a4689c63df1f3088beac5430cd5bfe_15-070J_classroom-1.jpg
+file: /courses/15-070j-advanced-stochastic-processes-fall-2013/e9a4689c63df1f3088beac5430cd5bfe_15-070J_classroom-1.jpg
 file_size: 23710
 file_type: image/jpeg
 image_metadata:
