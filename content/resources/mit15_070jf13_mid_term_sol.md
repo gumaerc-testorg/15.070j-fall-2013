@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains the information regarding midterm solutios.
 draft: false
-file: /courses/15-070j-advanced-stochastic-processes-fall-2013/2053a5c4fbda0185234e51ebc007ee05_MIT15_070JF13_Mid_Term_Sol.pdf
+file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/2053a5c4fbda0185234e51ebc007ee05_MIT15_070JF13_Mid_Term_Sol.pdf
 file_size: 144082
 file_type: application/pdf
 image_metadata:

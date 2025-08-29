@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains the information regarding homework 4.
 draft: false
-file: /courses/15-070j-advanced-stochastic-processes-fall-2013/e7a128888e07b2502d4dd48837d3f893_MIT15_070JF13_Homework4.pdf
+file: /ol-ocw-studio-app/courses/15-070j-advanced-stochastic-processes-fall-2013/e7a128888e07b2502d4dd48837d3f893_MIT15_070JF13_Homework4.pdf
 file_size: 171033
 file_type: application/pdf
 image_metadata:
